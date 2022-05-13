@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ashish Kachhadiya 
+- 👋 Hi, I’m ASHISH KACHHADIYA
 - 🌱 I’m here to develop mobile apps using the Flutter framework and develop in Java and Kotlin.
 
 - 👀 I’m interested in develop Mobile Applocation Development with the 
