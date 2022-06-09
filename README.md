@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ASHISH KACHHADIYA
-- 🌱 I’m here to develop mobile apps using the Flutter framework and develop in Java and Kotlin.
+- 🌱 I’m here to develop mobile apps using the FLUTTER framework and develop in KOTLIN & JAVA.
 
-- 👀 I’m interested in develop Mobile Applocation Development with the 
+- 👀 I’m interested in develop Mobile Applocation Development.
 
 - 💞️ I have 4.5+ years of experience in Mobile App Development in JAVA and Kotlin, but now I am specialized in both Flutter with 3+ years of experience & Android Native development Full time.
 
