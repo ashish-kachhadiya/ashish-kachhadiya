@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in develop Mobile Applocation Development.
 
-- 💞️ I have 4.5+ years of experience in Mobile App Development in JAVA and Kotlin, but now I am specialized in both Flutter with 3+ years of experience & Android Native development Full time.
+- 💞️ I have 5+ years of experience in Mobile App Development in JAVA and Kotlin, but now I am specialized in both Flutter with 3+ years of experience & Android Native development Full time.
 
 
 
