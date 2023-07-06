@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Ashish Kachhadiya</h1>
 <h3 align="center">🌱 I’m here to develop mobile apps using the FLUTTER framework and develop in KOTLIN & JAVA.</h3>
-<p><br>
--  💻 I have 6.5+ years of experience in Mobile App Development in JAVA and Kotlin, but now I am specialized in both Flutter with 5+ years of experience & Android Native development Full time.<br><br</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-kachhadiya&label=Profile%20views&color=FF8000&style=flat" alt="ashish-kachhadiya" /> </p>
+-  💻 I have 6.5+ years of experience in Mobile App Development in JAVA and Kotlin, but now I am specialized in both Flutter with 5+ years of experience & Android Native development Full time.
 
 <br>🔥 My core skills and Expertise are :
 
