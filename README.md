@@ -1,5 +1,5 @@
-- 👋 Hi, I’m ASHISH KACHHADIYA
-- 🌱 I’m here to develop mobile apps using the FLUTTER framework and develop in KOTLIN & JAVA.
+<h1 align="center">👋 Hi, I'm Ashish   Kachhadiya</h1>
+<h3 align="center">🌱 I’m here to develop mobile apps using the FLUTTER framework and develop in KOTLIN & JAVA.</h3>
 
 - 👀 I’m interested in develop Mobile Applocation Development.
 
