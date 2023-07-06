@@ -1,29 +1,26 @@
-<h1 align="center">👋 Hi, I'm Ashish   Kachhadiya</h1>
+<h1 align="center">👋 Hi, I'm Ashish Kachhadiya</h1>
 <h3 align="center">🌱 I’m here to develop mobile apps using the FLUTTER framework and develop in KOTLIN & JAVA.</h3>
+<p><br>
+-  💻 I have 6.5+ years of experience in Mobile App Development in JAVA and Kotlin, but now I am specialized in both Flutter with 5+ years of experience & Android Native development Full time.<br><br</p>
 
-- 👀 I’m interested in develop Mobile Applocation Development.
+<br>🔥 My core skills and Expertise are :
 
-- 💞️ I have 6+ years of experience in Mobile App Development in JAVA and Kotlin, but now I am specialized in both Flutter with 3+ years of experience & Android Native development Full time.
-
-
-
-🔥 My core skills and Expertise are :
-
-🟩 Flutter
+✅ Flutter
 - Clean Architecture with State management
 - Plugin development for Cross-platform apps
 - BloC - Cubit | Provider | GetX State management
 - Back-end Integration - Restful APIs | JSON | XML | PHP
 - Databases - SQLite | MySQL | ROOM | Realm | Floor | Hive | Moor
 - Social Media Integration - Google | Facebook | Apple | Twitter | LinkdIn | Instragram
-- Chat - Socket.IO | XMPP | Firebase Chat
+- Chat - AGORA | Socket.IO | XMPP | Firebase Chat
 - Google Maps | Apple Map kit | Geolocation | Location Tracking
 - Audio | Video Live Streaming
 - In-App Purchase | Advertisement | Push Notifications | Google Analytics | FCM
-- Stripe | Google Pay | Apple Pay | RazorPay
+- Stripe | Google Pay | Apple Pay | RazorPay | CCAvenue | CashFree Payments
 - Swift (Xcode)
 
-🟩 Android SDK
+
+✅ Android SDK
 - JAVA
 - Kotlin
 - MVC | MVVM
